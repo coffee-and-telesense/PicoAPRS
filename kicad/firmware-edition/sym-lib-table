@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAXM17225")(type "KiCad")(uri "/home/wither/Downloads/KiCADv6/2024-09-04_22-23-05.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61023")(type "KiCad")(uri "/home/wither/Downloads/KiCADv6/2024-09-06_21-42-42.kicad_sym")(options "")(descr ""))
+  (lib (name "LIV3F")(type "KiCad")(uri "/home/wither/Downloads/KiCADv6/2024-09-07_00-36-07.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX-M10M")(type "KiCad")(uri "/home/wither/Downloads/KiCADv6/2024-09-09_23-51-58.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32U073KCU6")(type "KiCad")(uri "/home/wither/Downloads/KiCADv6/2024-09-11_06-38-22.kicad_sym")(options "")(descr ""))
+)
