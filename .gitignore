@@ -1,4 +1,5 @@
 kicad/*/*-backups
+kicad/*/fp-info-cache
 *.gbr*
 *.drl
 *.lck
