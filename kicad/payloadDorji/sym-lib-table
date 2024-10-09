@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NUCLEO-L432KC")(type "KiCad")(uri "/home/wither/code/research/PicoAPRS/kicad/lib/NUCLEO-L432KC/NUCLEO-L432KC.kicad_sym")(options "")(descr ""))
+)
