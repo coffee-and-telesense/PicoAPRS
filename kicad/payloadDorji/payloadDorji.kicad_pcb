@@ -42,7 +42,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
-			(layerselection 0x00010c0_ffffffff)
+			(layerselection 0x0001004_7ffffffe)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -76,7 +76,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../media/dionisio/EPL_USB/DORJI/")
+			(outputdirectory "/run/media/wither/EPL_USB/")
 		)
 	)
 	(net 0 "")
@@ -390,7 +390,7 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "J1"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "a097761c-d0a0-47eb-abed-e7a0ba274a4b")
 			(effects
@@ -401,7 +401,7 @@
 			)
 		)
 		(property "Value" "PWR"
-			(at 0 4.87 360)
+			(at 0 4.87 0)
 			(layer "F.Fab")
 			(uuid "a66adbb1-15ac-4fb5-b68c-4e45b772b08b")
 			(effects
@@ -1449,7 +1449,7 @@
 			(uuid "b53710ed-64cc-40c8-b2fe-151490925610")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.27 360)
+			(at 0 1.27 0)
 			(layer "F.Fab")
 			(uuid "eadefb18-66ce-44cd-be34-ac0648acc47d")
 			(effects
@@ -6731,7 +6731,7 @@
 		(descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "inductor")
 		(property "Reference" "L5"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "B.SilkS")
 			(uuid "d1281e85-af20-4dd5-b688-24076ae16df6")
 			(effects
@@ -6743,7 +6743,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "d4946898-755a-4748-9b4e-a56dcadbf31f")
 			(effects
@@ -6902,7 +6902,7 @@
 			(uuid "666b8119-fd14-4cf5-801b-39fcdea6f917")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "41287049-4508-4eca-a434-4825f9db0f12")
 			(effects
@@ -9452,7 +9452,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 0 1.16 360)
+			(at 0 1.16 0)
 			(layer "B.SilkS")
 			(uuid "928fd8d1-d80f-4014-b00f-e06a4e794792")
 			(effects
@@ -9464,7 +9464,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 -1.16 360)
+			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "c1b1f07e-3a75-40ab-a3ac-289132c880dd")
 			(effects
@@ -9623,7 +9623,7 @@
 			(uuid "1bb600c6-b3f8-43d3-b911-b6543abb7949")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "e34a059c-b5fc-4d29-8f52-5ef2e6d28b30")
 			(effects
@@ -11694,7 +11694,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 0 1.16 360)
+			(at 0 1.16 0)
 			(layer "B.SilkS")
 			(uuid "eb5bffa0-c2eb-46da-8b88-8afcdeeaaf50")
 			(effects
@@ -11706,7 +11706,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 -1.16 360)
+			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "64b005db-467f-4d32-b078-e87d0517a73a")
 			(effects
@@ -11865,7 +11865,7 @@
 			(uuid "390d3b61-388e-4e9a-8b8f-437bb391d567")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "03cd7dfd-8cac-4149-9d57-aa15c50ca1e4")
 			(effects

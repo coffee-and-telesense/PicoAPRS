@@ -496,7 +496,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "payloadDorji.net",
-      "plot": "../../../media/dionisio/EPL_USB/DORJI/",
+      "plot": "/run/media/wither/EPL_USB/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

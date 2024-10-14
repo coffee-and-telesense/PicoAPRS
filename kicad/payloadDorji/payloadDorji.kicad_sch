@@ -4336,16 +4336,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 62.23) (xy 123.19 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "123daa71-22b2-4c49-91a3-e0bc9416c180")
-	)
-	(wire
-		(pts
 			(xy 24.13 121.92) (xy 30.48 121.92)
 		)
 		(stroke
@@ -4923,16 +4913,6 @@
 			(type default)
 		)
 		(uuid "909a4a14-dd08-4e0f-9713-d7d93688d6aa")
-	)
-	(wire
-		(pts
-			(xy 128.27 62.23) (xy 123.19 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "915e9c89-4737-4166-be25-ae58f643d78e")
 	)
 	(wire
 		(pts
@@ -11260,72 +11240,6 @@
 			(project "payloadDorji"
 				(path "/a1fbba56-c12c-4711-9b0a-2692694797db"
 					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 123.19 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f2bd5571-918e-4adf-be72-46016f4ea537")
-		(property "Reference" "#PWR03"
-			(at 123.19 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 123.19 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 123.19 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 123.19 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1df08bf1-fdfb-40f8-b128-75ee44ee1db5")
-		)
-		(instances
-			(project "payloadDorji"
-				(path "/a1fbba56-c12c-4711-9b0a-2692694797db"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
