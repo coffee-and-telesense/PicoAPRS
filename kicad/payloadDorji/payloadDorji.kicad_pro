@@ -178,7 +178,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.25
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -229,7 +230,14 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_to_pin|1473200|2120900|02e9c0aa-70fc-43a0-9c56-ee6abb9a412d|0617196c-12eb-4e50-a757-743bba8b246c|/a1fbba56-c12c-4711-9b0a-2692694797db|/a1fbba56-c12c-4711-9b0a-2692694797db|/a1fbba56-c12c-4711-9b0a-2692694797db",
+      "pin_to_pin|812800|1917700|2e807209-6746-424f-b242-c33eb9121647|02e9c0aa-70fc-43a0-9c56-ee6abb9a412d|/a1fbba56-c12c-4711-9b0a-2692694797db|/a1fbba56-c12c-4711-9b0a-2692694797db|/a1fbba56-c12c-4711-9b0a-2692694797db",
+      "pin_to_pin|812800|1917700|2e807209-6746-424f-b242-c33eb9121647|0617196c-12eb-4e50-a757-743bba8b246c|/a1fbba56-c12c-4711-9b0a-2692694797db|/a1fbba56-c12c-4711-9b0a-2692694797db|/a1fbba56-c12c-4711-9b0a-2692694797db",
+      "power_pin_not_driven|2946400|393700|753414d9-962a-4918-af73-0733cc79ef1e|00000000-0000-0000-0000-000000000000|/a1fbba56-c12c-4711-9b0a-2692694797db|/a1fbba56-c12c-4711-9b0a-2692694797db|",
+      "power_pin_not_driven|3314700|520700|f6bcf42e-f71f-4635-a687-d2ec6347fb56|00000000-0000-0000-0000-000000000000|/a1fbba56-c12c-4711-9b0a-2692694797db|/a1fbba56-c12c-4711-9b0a-2692694797db|",
+      "power_pin_not_driven|355600|1028700|5bc1c04d-4098-4b7f-83e9-5cdf1e33b67c|00000000-0000-0000-0000-000000000000|/a1fbba56-c12c-4711-9b0a-2692694797db|/a1fbba56-c12c-4711-9b0a-2692694797db|"
+    ],
     "meta": {
       "version": 0
     },
@@ -634,6 +642,24 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Purchase-URL",
+          "name": "Purchase-URL",
           "show": false
         }
       ],

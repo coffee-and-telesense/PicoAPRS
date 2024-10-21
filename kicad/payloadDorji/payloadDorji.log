@@ -1,5 +1,0 @@
-Questionable use of curly braces in "(net (code "2") (name "/h{slash}l")"
-    Error: undefined symbol in: "[slash]"
-Circuit: (export (version "E")
-
-Fatal Error: Unknown SPICE device type "(" in "(design"
