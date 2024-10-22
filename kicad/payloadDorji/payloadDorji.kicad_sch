@@ -7491,7 +7491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NUCLEO-L432KC:MODULE_NUCLEO-L432KC"
+		(property "Footprint" "picoaprs:MODULE_NUCLEO-L432KC"
 			(at 198.12 82.55 0)
 			(effects
 				(font
@@ -7775,7 +7775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NUCLEO-L432KC:MODULE_NUCLEO-L432KC"
+		(property "Footprint" "picoaprs:MODULE_NUCLEO-L432KC"
 			(at 198.12 130.81 0)
 			(effects
 				(font
@@ -11003,7 +11003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOD18_MAX-M10M_UBL"
+		(property "Footprint" "picoaprs:MOD18_MAX-M10M_UBL"
 			(at 127.508 195.834 0)
 			(effects
 				(font
@@ -12152,7 +12152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PicoAPRS-CustomFootprints:AC30157-01 GNSS Ceramic Chip"
+		(property "Footprint" "picoaprs:AC30157-01 GNSS Ceramic Chip"
 			(at 53.34 203.2 0)
 			(effects
 				(font
@@ -13317,7 +13317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PicoAPRS-CustomFootprints:DORJI_DRA818V"
+		(property "Footprint" "picoaprs:DORJI_DRA818V"
 			(at 119.38 82.55 0)
 			(effects
 				(font
