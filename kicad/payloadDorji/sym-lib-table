@@ -11,4 +11,5 @@
   (lib (name "SCD30")(type "KiCad")(uri "${PICOAPRS_LIBRARIES}/symbols/SCD30.kicad_sym")(options "")(descr ""))
   (lib (name "SCD41")(type "KiCad")(uri "${PICOAPRS_LIBRARIES}/symbols/SCD41.kicad_sym")(options "")(descr ""))
   (lib (name "TPS61023")(type "KiCad")(uri "${PICOAPRS_LIBRARIES}/symbols/TPS61023.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX-M10M")(type "KiCad")(uri "${PICOAPRS_LIBRARIES}/symbols/MAX-M10M.kicad_sym")(options "")(descr ""))
 )
