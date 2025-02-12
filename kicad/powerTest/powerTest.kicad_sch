@@ -4474,7 +4474,6 @@
 	)
 	(label "SETSD"
 		(at 162.56 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4485,7 +4484,6 @@
 	)
 	(label "SETSD"
 		(at 151.13 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7631,7 +7629,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "499k"
+		(property "Value" "115k"
 			(at 120.904 120.65 0)
 			(effects
 				(font
@@ -9256,7 +9254,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.67M"
+		(property "Value" "3.16M"
 			(at 120.904 130.81 0)
 			(effects
 				(font
