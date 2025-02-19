@@ -1,4 +1,4 @@
-24688940426144188
+24690680360776053
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87730,6 +87730,13 @@ Antenna ProAnt OnBoard 868Mhz 915Mhz 2400Mhz
 0
 6
 6
+RF_Antenna
+Antenna AC30157
+
+
+0
+0
+0
 RF_Antenna
 Antenova_SR4G013_GPS
 GPS/GLONASS/Galileo/BeiDou antenna, 1559-1609Mhz, SMD, https://www.application-datasheet.com/pdf/antenova/sr4g013.pdf

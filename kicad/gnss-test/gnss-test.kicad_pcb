@@ -2392,6 +2392,156 @@
 			)
 		)
 	)
+	(footprint "PicoAPRS-CustomFootprints:AC30157-01 GNSS Ceramic Chip"
+		(layer "F.Cu")
+		(uuid "a5dbedd8-05ee-4fd9-b6cf-f9ac8613c445")
+		(at 165.16 54.63)
+		(property "Reference" "AE1"
+			(at 0 -3.7 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "ffb9cd13-51ed-486f-bd06-f31578d0987b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "Antenna"
+			(at 0 4.1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "39ee1d21-b925-441f-a430-e5e76142f191")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "PicoAPRS-CustomFootprints:AC30157-01 GNSS Ceramic Chip"
+			(at 0.9 -1.8 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d17bf266-93a8-4c48-81d0-89e18e5ce5c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0.9 -1.8 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a05b882-6163-49f2-8c38-cc2b72ce8b23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Antenna"
+			(at 0.9 -1.8 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b239861b-3b99-433c-8b06-1dd4d48ef7ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr smd)
+		(fp_line
+			(start -0.5 -0.1)
+			(end 3 -0.1)
+			(stroke
+				(width 1)
+				(type default)
+			)
+			(layer "F.Cu")
+			(uuid "a021a5e2-5d4f-4ea4-9890-658723146c64")
+		)
+		(fp_line
+			(start -0.5 2.5)
+			(end -0.5 0)
+			(stroke
+				(width 1)
+				(type default)
+			)
+			(layer "F.Cu")
+			(uuid "d3293988-3438-4d95-bde5-977e8a4c27cc")
+		)
+		(fp_line
+			(start 0.2 -2.3)
+			(end -3.1 -2.3)
+			(stroke
+				(width 0.8)
+				(type default)
+			)
+			(layer "F.Cu")
+			(uuid "36610320-11dd-495c-b023-128a7b1a2fc9")
+		)
+		(fp_line
+			(start 1.6 -2.3)
+			(end 3.1 -2.3)
+			(stroke
+				(width 0.8)
+				(type default)
+			)
+			(layer "F.Cu")
+			(uuid "530f87d2-b0e1-4cd6-a39a-809e190b7ad6")
+		)
+		(fp_rect
+			(start -3.5 -3)
+			(end 3.5 3)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "604aa3c9-137b-4bb4-ab01-c0f76f731ee7")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 5.6 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "d0ad108f-f4f7-4d6e-b2b6-15d34ec815c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at 1.6 -2.3 180)
+			(size 0.8 1)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(pinfunction "A")
+			(pintype "input")
+			(thermal_bridge_angle 45)
+			(uuid "292d1be9-c5ff-4f1f-a4a3-b4712e40837b")
+		)
+		(pad "2" smd roundrect
+			(at 0.2 -2.3 180)
+			(size 0.8 1)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(thermal_bridge_angle 45)
+			(uuid "b26e8a4b-8786-4d90-8326-fb5bc1e7bddd")
+		)
+	)
 	(footprint "Inductor_SMD:L_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "c4fbd2f4-9b6a-4ca8-827b-e7a50a09982e")
@@ -4237,30 +4387,6 @@
 		(uuid "f7289896-555c-4fed-a822-9a05d69607d7")
 	)
 	(segment
-		(start 160.96 70.32)
-		(end 167.49 70.32)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 2)
-		(uuid "08759290-5f58-4cb5-baf2-4ed5d232162d")
-	)
-	(segment
-		(start 160.5 69.86)
-		(end 160.96 70.32)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 2)
-		(uuid "4d7d9944-3b5c-4466-a54f-5aa3c09c9059")
-	)
-	(segment
-		(start 160.5 64.26)
-		(end 160.5 69.86)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 2)
-		(uuid "85a53c9a-a9a9-4a93-a65f-9757c80665c8")
-	)
-	(segment
 		(start 167.49 70.32)
 		(end 167.88 69.93)
 		(width 0.2)
@@ -4591,7 +4717,7 @@
 	(segment
 		(start 164.69 58.485)
 		(end 164.69 54.49)
-		(width 0.5)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 20)
 		(uuid "091e6444-7d4f-4eaf-8557-f41282b5c628")
@@ -4615,7 +4741,7 @@
 	(segment
 		(start 164.69 54.49)
 		(end 169.755 54.49)
-		(width 0.5)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 20)
 		(uuid "9ec0a31c-9aba-45c4-8b1f-417e81552fd9")
