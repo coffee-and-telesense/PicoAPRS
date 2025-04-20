@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TXS0102V")(type "KiCad")(uri "${KIPRJMOD}/Extras/footprints.pretty")(options "")(descr ""))
+)

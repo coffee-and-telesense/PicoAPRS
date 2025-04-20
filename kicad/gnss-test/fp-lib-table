@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "PicoAPRS Custom Parts")(type "KiCad")(uri "/home/wither/code/research/PicoAPRS/kicad/lib/footprints.pretty")(options "")(descr ""))
+  (lib (name "FootprintsUpdated")(type "KiCad")(uri "D:/david/PicoAPRS/kicad/firmware-edition/Extras/FootprintsUpdated.pretty")(options "")(descr ""))
 )

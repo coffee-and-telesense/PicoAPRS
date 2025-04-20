@@ -5,4 +5,5 @@
   (lib (name "LIV3F")(type "KiCad")(uri "/home/wither/Downloads/KiCADv6/2024-09-07_00-36-07.kicad_sym")(options "")(descr ""))
   (lib (name "MAX-M10M")(type "KiCad")(uri "/home/wither/Downloads/KiCADv6/2024-09-09_23-51-58.kicad_sym")(options "")(descr ""))
   (lib (name "STM32U073KCU6")(type "KiCad")(uri "/home/wither/Downloads/KiCADv6/2024-09-11_06-38-22.kicad_sym")(options "")(descr ""))
+  (lib (name "TXS0102V")(type "KiCad")(uri "${KIPRJMOD}/Extras/2025-04-19_23-21-22.kicad_sym")(options "")(descr ""))
 )

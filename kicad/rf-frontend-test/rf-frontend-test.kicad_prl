@@ -28,28 +28,8 @@
       "vias": true,
       "zones": true
     },
-    "visible_items": [
-      "vias",
-      "footprint_text",
-      "footprint_anchors",
-      "ratsnest",
-      "grid",
-      "footprints_front",
-      "footprints_back",
-      "footprint_values",
-      "footprint_references",
-      "tracks",
-      "drc_errors",
-      "drawing_sheet",
-      "bitmaps",
-      "pads",
-      "zones",
-      "drc_warnings",
-      "locked_item_shadows",
-      "conflict_shadows",
-      "shapes"
-    ],
-    "visible_layers": "00000000_00000000_0bfdffff_ffffffff",
+    "visible_items": [],
+    "visible_layers": "bfdffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -60,7 +40,7 @@
   },
   "meta": {
     "filename": "rf-frontend-test.kicad_prl",
-    "version": 5
+    "version": 3
   },
   "net_inspector_panel": {
     "col_hidden": [
@@ -88,16 +68,16 @@
       9
     ],
     "col_widths": [
-      162,
-      147,
-      91,
-      67,
-      91,
-      91,
-      91,
-      71,
-      91,
-      91
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      68
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

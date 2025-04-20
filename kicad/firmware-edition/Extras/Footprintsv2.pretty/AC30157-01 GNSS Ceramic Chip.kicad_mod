@@ -1,0 +1,137 @@
+(footprint "AC30157-01 GNSS Ceramic Chip"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "AE1"
+		(at 0 -3.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "db861855-5b62-4489-8a52-888a3a93caed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Antenna"
+		(at 0 4.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4771b80a-8d7b-4f1f-81cb-509c95feb0ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0.9 -1.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67b731f9-57b7-4f5f-b8c3-02a025121f6e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Antenna"
+		(at 0.9 -1.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a529211-4580-4bcc-ba5b-956c3295d31e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.5 -0.1)
+		(end 3 -0.1)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "8c1fbca3-2b02-4715-8ce4-9132ba59a114")
+	)
+	(fp_line
+		(start -0.5 2.5)
+		(end -0.5 0)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "58742fb0-7d74-4b79-89ad-0356dd99d652")
+	)
+	(fp_line
+		(start 0.2 -2.3)
+		(end -3.1 -2.3)
+		(stroke
+			(width 0.8)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "87a4ed8f-82ed-4e0b-ae48-5fdcf5acfac9")
+	)
+	(fp_line
+		(start 1.6 -2.3)
+		(end 3.1 -2.3)
+		(stroke
+			(width 0.8)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "b1560721-9c81-44a4-ba8b-0ce9af108a93")
+	)
+	(fp_rect
+		(start -3.5 -3)
+		(end 3.5 3)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a98c270e-d192-4159-a476-f09c8a3c6c20")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 5.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a0918fa9-3869-44ce-b97d-b6795be01389")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 1.6 -2.3 180)
+		(size 0.8 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "462457c2-8611-450c-86c7-2f6e5b61358b")
+	)
+	(pad "2" smd roundrect
+		(at 0.2 -2.3 180)
+		(size 0.8 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "89d84b4d-2a38-44b9-982a-15bc99cfcfa9")
+	)
+	(embedded_fonts no)
+)
