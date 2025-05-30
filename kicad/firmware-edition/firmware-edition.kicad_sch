@@ -10902,7 +10902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
 			(at 273.05 199.39 0)
 			(effects
 				(font
@@ -19524,7 +19524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
 			(at 299.72 196.85 0)
 			(effects
 				(font
