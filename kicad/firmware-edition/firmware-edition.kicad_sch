@@ -17415,7 +17415,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03"
+		(property "Value" "USB_C"
 			(at 85.09 198.12 0)
 			(effects
 				(font
