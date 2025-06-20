@@ -6800,16 +6800,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 64.77) (xy 185.42 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f1af1c6-0d51-41d3-9078-df48b6a7873a")
-	)
-	(wire
-		(pts
 			(xy 180.34 25.4) (xy 180.34 26.67)
 		)
 		(stroke
@@ -7850,6 +7840,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 64.77) (xy 185.42 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7576334b-e315-4393-9d47-7135e66a0a69")
+	)
+	(wire
+		(pts
 			(xy 154.94 78.74) (xy 139.7 78.74)
 		)
 		(stroke
@@ -8470,6 +8470,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 53.34) (xy 185.42 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac9c199a-e2e6-4ba9-9812-5d8322673a7f")
+	)
+	(wire
+		(pts
 			(xy 39.37 43.18) (xy 46.99 43.18)
 		)
 		(stroke
@@ -8717,16 +8727,6 @@
 			(type default)
 		)
 		(uuid "c134e2a6-5768-426a-b5ba-685b600ec84d")
-	)
-	(wire
-		(pts
-			(xy 185.42 53.34) (xy 185.42 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c248b633-5113-4e5b-aaf5-00b5419a4806")
 	)
 	(wire
 		(pts
@@ -16122,15 +16122,15 @@
 	(symbol
 		(lib_id "Transistor_FET:BSS84")
 		(at 256.54 33.02 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "65ddd43a-dadf-4459-83f1-052572292474")
 		(property "Reference" "Q2"
-			(at 262.89 31.7499 0)
+			(at 262.89 34.2901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16139,7 +16139,7 @@
 			)
 		)
 		(property "Value" "BSS84"
-			(at 262.89 34.2899 0)
+			(at 262.89 31.7501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16148,7 +16148,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 261.62 34.925 0)
+			(at 261.62 31.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16159,7 +16159,7 @@
 			)
 		)
 		(property "Datasheet" "http://assets.nexperia.com/documents/data-sheet/BSS84.pdf"
-			(at 261.62 36.83 0)
+			(at 261.62 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16676,15 +16676,15 @@
 	(symbol
 		(lib_id "Transistor_FET:BSS84")
 		(at 182.88 59.69 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "72ba4189-dace-49e1-b096-9e829c779b2a")
 		(property "Reference" "Q3"
-			(at 189.23 58.4199 0)
+			(at 189.23 60.9601 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16693,7 +16693,7 @@
 			)
 		)
 		(property "Value" "BSS84"
-			(at 189.23 60.9599 0)
+			(at 189.23 58.4201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16702,7 +16702,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 187.96 61.595 0)
+			(at 187.96 57.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16713,7 +16713,7 @@
 			)
 		)
 		(property "Datasheet" "http://assets.nexperia.com/documents/data-sheet/BSS84.pdf"
-			(at 187.96 63.5 0)
+			(at 187.96 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20996,15 +20996,15 @@
 	(symbol
 		(lib_id "Transistor_FET:BSS84")
 		(at 243.84 50.8 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e23b6cc0-e800-41f4-956e-06d9540160b3")
 		(property "Reference" "Q1"
-			(at 250.19 49.5299 0)
+			(at 250.19 52.0701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21013,7 +21013,7 @@
 			)
 		)
 		(property "Value" "BSS84"
-			(at 250.19 52.0699 0)
+			(at 250.19 49.5301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21022,7 +21022,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 248.92 52.705 0)
+			(at 248.92 48.895 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21033,7 +21033,7 @@
 			)
 		)
 		(property "Datasheet" "http://assets.nexperia.com/documents/data-sheet/BSS84.pdf"
-			(at 248.92 54.61 0)
+			(at 248.92 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
