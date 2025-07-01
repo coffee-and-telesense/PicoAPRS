@@ -1,4 +1,4 @@
-25628072098299392
+25609832616393680
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59373,6 +59373,27 @@ emi filter
 0
 5
 5
+Footprintsv2
+AC30157-01 GNSS Ceramic Chip
+
+
+0
+2
+2
+Footprintsv2
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+29
+25
+Footprintsv2
+MOD18_MAX-M10M_UBL
+
+MAX-M10M-00B 
+0
+18
+18
 Fuse
 FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165
 Littelfuse fuse holder for ATO/FKS blade fuses, 80V, vertical, 20 x 6mm, PCB thickness up to 1.5mm, http://www.littelfuse.com/~/media/commercial-vehicle/datasheets/automotive-fuse-holders/ato/littelfuse-fuse-holder-ato-flr-pcb-datasheet.pdf
@@ -71966,41 +71987,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCM_kikit
-Board
-Mark board for extraction
-
-0
-0
-0
-PCM_kikit
-Error
-Mark board for extraction
-
-0
-0
-0
-PCM_kikit
-Fiducial
-Circular Fiducial
-fiducial
-0
-1
-0
-PCM_kikit
-NPTH
-
-
-0
-0
-0
-PCM_kikit
-Tab
-A symbol representing annotation for tab placement
-
-0
-0
-0
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -93778,6 +93764,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+STM32073
+UFQFPN-32_STM
+
+STM32U073KCU6 
+0
+33
+33
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -95871,6 +95864,13 @@ Logo WEEE
 0
 0
 0
+TPS
+DRL0006A
+
+TPS61023DRLR 
+0
+6
+6
 TXS0102V
 SSOP8_DCT_TEX
 
