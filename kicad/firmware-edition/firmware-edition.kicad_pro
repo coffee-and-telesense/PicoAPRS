@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.7,
-          "height": 0.7,
-          "width": 0.7
+          "drill": 2.1,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,36 +60,72 @@
       ],
       "drc_exclusions": [
         [
-          "hole_clearance|167875000|101960000|ae01b684-8a6f-4ff5-9f08-ca00ab8bdcd0|1b78d936-300c-4e89-9c9b-20410b48bb25",
-          "USB footprint"
+          "clearance|154049997|88580001|8e283d56-b905-4a71-85c8-fc34fd67a170|50fd3905-94de-477e-a57d-d3b26cc2acdb",
+          ""
         ],
         [
-          "hole_clearance|167875000|101960000|cee0a11f-db27-4e68-bc22-0eccc903bb68|1b78d936-300c-4e89-9c9b-20410b48bb25",
-          "USB footprint"
+          "clearance|154049997|91679999|b362e0cc-0d3e-44b4-9b61-bb84b8ee60e1|959ca37d-2c7b-4d97-9d24-1dbc842ce9bf",
+          ""
         ],
         [
-          "hole_clearance|167875000|96160000|1a5c8800-7991-48c6-aeca-ca10e7ca0530|406ff8ea-2fbb-47a6-a6a5-ddd9e2760f2f",
-          "USB footprint"
+          "clearance|154449996|88580001|9826e00c-196b-4142-bea9-6545ba943cf7|8e283d56-b905-4a71-85c8-fc34fd67a170",
+          ""
         ],
         [
-          "hole_clearance|167875000|96160000|b8efd898-9c4b-4def-8005-520b041e6bea|406ff8ea-2fbb-47a6-a6a5-ddd9e2760f2f",
-          "USB footprint"
+          "clearance|154449996|91679999|e87a06ab-8d3b-4296-825d-b901817b44d5|b362e0cc-0d3e-44b4-9b61-bb84b8ee60e1",
+          ""
         ],
         [
-          "shorting_items|166715000|101160000|814fe577-32fd-47a0-8931-872d4d8aec2b|ae071cde-d268-4094-a350-caeb200528aa",
-          "USB footprint"
+          "clearance|154849995|88580001|7d1fb886-7c72-4252-b7b3-eeaaf7ac18e1|9826e00c-196b-4142-bea9-6545ba943cf7",
+          ""
         ],
         [
-          "shorting_items|166715000|96360000|3e640001-72a4-43c2-ad3e-0ff25cee80d2|0c2745c7-e58b-49a9-8998-4103f4578f61",
-          "USB footprint"
+          "clearance|154849995|91679999|be4a140a-7194-42cf-9164-f6cbc8bda562|e87a06ab-8d3b-4296-825d-b901817b44d5",
+          ""
         ],
         [
-          "solder_mask_bridge|166715000|101160000|814fe577-32fd-47a0-8931-872d4d8aec2b|ae071cde-d268-4094-a350-caeb200528aa",
-          "USB footprint"
+          "clearance|155249997|88580001|7c80b114-56ab-4377-bca2-95d3ef6c54d5|7d1fb886-7c72-4252-b7b3-eeaaf7ac18e1",
+          ""
         ],
         [
-          "solder_mask_bridge|166715000|96360000|3e640001-72a4-43c2-ad3e-0ff25cee80d2|0c2745c7-e58b-49a9-8998-4103f4578f61",
-          "USB footprint"
+          "clearance|155249997|91679999|aa3d34a3-12e1-47d1-af29-d4bb68975afe|be4a140a-7194-42cf-9164-f6cbc8bda562",
+          ""
+        ],
+        [
+          "courtyards_overlap|156925000|70365000|7926a419-d805-4e97-bc83-f0ca96a145a2|abaa8483-fd85-4699-a37c-cb15620735b8",
+          "if it fits it ships"
+        ],
+        [
+          "hole_clearance|167604753|101940000|1b78d936-300c-4e89-9c9b-20410b48bb25|ae01b684-8a6f-4ff5-9f08-ca00ab8bdcd0",
+          ""
+        ],
+        [
+          "hole_clearance|167604753|101940000|1b78d936-300c-4e89-9c9b-20410b48bb25|cee0a11f-db27-4e68-bc22-0eccc903bb68",
+          ""
+        ],
+        [
+          "hole_clearance|167604753|96140000|406ff8ea-2fbb-47a6-a6a5-ddd9e2760f2f|1a5c8800-7991-48c6-aeca-ca10e7ca0530",
+          ""
+        ],
+        [
+          "hole_clearance|167604753|96140000|406ff8ea-2fbb-47a6-a6a5-ddd9e2760f2f|b8efd898-9c4b-4def-8005-520b041e6bea",
+          ""
+        ],
+        [
+          "shorting_items|166444753|101140000|ae071cde-d268-4094-a350-caeb200528aa|814fe577-32fd-47a0-8931-872d4d8aec2b",
+          ""
+        ],
+        [
+          "shorting_items|166444753|96340000|0c2745c7-e58b-49a9-8998-4103f4578f61|3e640001-72a4-43c2-ad3e-0ff25cee80d2",
+          ""
+        ],
+        [
+          "solder_mask_bridge|166444753|101140000|ae071cde-d268-4094-a350-caeb200528aa|814fe577-32fd-47a0-8931-872d4d8aec2b",
+          ""
+        ],
+        [
+          "solder_mask_bridge|166444753|96340000|0c2745c7-e58b-49a9-8998-4103f4578f61|3e640001-72a4-43c2-ad3e-0ff25cee80d2",
+          ""
         ]
       ],
       "meta": {
@@ -180,7 +216,7 @@
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
           "td_onsmdpad": true,
-          "td_ontrackend": false,
+          "td_ontrackend": true,
           "td_onvia": true
         }
       ],

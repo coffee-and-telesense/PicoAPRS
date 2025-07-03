@@ -1,4 +1,4 @@
-25609832616393680
+25616838550362399
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59381,6 +59381,20 @@ AC30157-01 GNSS Ceramic Chip
 2
 2
 Footprintsv2
+CON_513389873
+
+513389873 
+0
+14
+14
+Footprintsv2
+Keystone 4871
+
+
+0
+0
+0
+Footprintsv2
 LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm
 LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 LFCSP NoLead
@@ -59394,6 +59408,20 @@ MAX-M10M-00B
 0
 18
 18
+Footprintsv2
+NPTH Drill Hole 0.7mm
+
+
+0
+0
+0
+Footprintsv2
+Untitled
+
+
+0
+0
+0
 Fuse
 FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165
 Littelfuse fuse holder for ATO/FKS blade fuses, 80V, vertical, 20 x 6mm, PCB thickness up to 1.5mm, http://www.littelfuse.com/~/media/commercial-vehicle/datasheets/automotive-fuse-holders/ato/littelfuse-fuse-holder-ato-flr-pcb-datasheet.pdf
